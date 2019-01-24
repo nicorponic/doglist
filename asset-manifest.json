@@ -1,0 +1,13 @@
+{
+  "main.css": "/doglist/static/css/main.fa99f516.chunk.css",
+  "main.js": "/doglist/static/js/main.a0c43c0b.chunk.js",
+  "main.js.map": "/doglist/static/js/main.a0c43c0b.chunk.js.map",
+  "static/js/1.c409e8a5.chunk.js": "/doglist/static/js/1.c409e8a5.chunk.js",
+  "static/js/1.c409e8a5.chunk.js.map": "/doglist/static/js/1.c409e8a5.chunk.js.map",
+  "runtime~main.js": "/doglist/static/js/runtime~main.c8f99291.js",
+  "runtime~main.js.map": "/doglist/static/js/runtime~main.c8f99291.js.map",
+  "static/css/main.fa99f516.chunk.css.map": "/doglist/static/css/main.fa99f516.chunk.css.map",
+  "index.html": "/doglist/index.html",
+  "precache-manifest.57b020330e53f56a819d19b127e34089.js": "/doglist/precache-manifest.57b020330e53f56a819d19b127e34089.js",
+  "service-worker.js": "/doglist/service-worker.js"
+}
